@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=omergery&count_private=true&theme=tokyonight&showicons=true)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omergery&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergery)](https://github.com/omergery/github-readme-stats)
 
 <!--
