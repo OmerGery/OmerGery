@@ -1,12 +1,3 @@
 ### Hi there 👋
 
-<div align="center">
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://raw.githubusercontent.com/OmerGery/github-stats/main/generated/overview.svg)
-![](https://raw.githubusercontent.com/OmerGery/github-stats/main/generated/languages.svg)
-
-</a>
-
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omergery&count_private=true&hide=stars,prs)
